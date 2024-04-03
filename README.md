@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on my assignments in C.
 
-- ✨ I am 42 Prague student, since June 2023 and I'm based in Prague.
+- ✨ I am 42 Prague student, since June 2023.
 
 <!--- 💞️ I’m looking to collaborate on ... --->
 <!--- 📫 How to reach me ... --->
