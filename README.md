@@ -1,9 +1,12 @@
--  Hi there, I’m Lilia Nikolova 👋
+-  Hi there, I’m Lilia 👋
 
-- 👀 I’m interested in problem solving. Developing new techologies and tools to help humanity and our planet.
+- 👀 I’m interested in developing new techologies and tools to help humanity and our planet.
+- ⚡ What drives my curiosity - "If a problem can't be solve: Let's do it".
 
-- 🌱 I’m currently learning C.
--  I am 42 Prague student and I'm based in Prague. 
+- 🌱 I’m currently working on my assignments in C.
+
+- ✨ I am 42 Prague student, since June 2023 and I'm based in Prague.
+
 <!--- 💞️ I’m looking to collaborate on ... --->
 <!--- 📫 How to reach me ... --->
 <!--- 😄 Pronouns: ... --->
