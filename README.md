@@ -2,9 +2,9 @@
 
 - 👀 I’m interested in developing new techologies and tools to help humanity and our planet.
 
-- ⚡ What drives my curiosity - "If a problem can't be solve: Let's do it".
+- ⚡ What drives my motivation is curiosity
 
-- 🌱 I’m currently working on my assignments in C.
+- 🌱 I’m currently working on my assignments in C and C++;
 
 - ✨ I am 42 Prague student, since June 2023.
 
